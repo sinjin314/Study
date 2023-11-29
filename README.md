@@ -1,5 +1,6 @@
 # Study
 Scope
+
 les mesures de sécurité établies pour sécuriser les données (audit de sécurité) ;
 
 le positionnement des données hébergées ;
